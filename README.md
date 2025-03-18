@@ -19,3 +19,5 @@
 - Power BI  
 - Data Cleaning & Visualization  
 
+![Dashboard Screenshot](Screenshot%202025-03-18%20221000.png)
+
